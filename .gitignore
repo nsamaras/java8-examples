@@ -1,0 +1,26 @@
+.settings
+.classpath
+.project
+target
+sonar-pom.xml
+javadoc-options-javadoc-resources.xml
+.factorypath
+dependency-reduced-pom.xml
+bin
+*.graphml
+dependency.jpg
+/r4bp-deployment/r4bp-web-authority/r4bp-web-authority.jpg
+/r4bp-deployment/r4bp-web-industry/r4bp-web-industry.jpg
+MANIFEST.MF
+*.jsfdia
+*/log.txt
+
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+
+.metadata
+.recommenders
+/more
